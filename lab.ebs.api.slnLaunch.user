@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "BlazorAppWasm\\BlazorAppWasm.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\lab.ebs.api.V2\\lab.ebs.api.V2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
